@@ -18,13 +18,13 @@
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-(https://i.imgur.com/MftAQZh.jpeg)
+![list](https://i.imgur.com/MftAQZh.jpeg)
 
 ### Tampilan Search — saat ada hasil
-(https://i.imgur.com/SFNqNMu.jpeg)
+![hasil](https://i.imgur.com/SFNqNMu.jpeg)
 
 ### Tampilan Empty State — saat tidak ada hasil
-(https://i.imgur.com/MJQiCVT.jpeg)
+![empty](https://i.imgur.com/MJQiCVT.jpeg)
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [url-repo-kamu]
